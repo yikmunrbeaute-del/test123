@@ -5,7 +5,7 @@ const HeaderButton = () => {
     return (
         <>
             <div className="mx-auto">
-                <a href="#about"><button className="see">Checkout Portfolio</i></button></a>
+                <a href="#about"><button className="see">Checkout Here</i></button></a>
             </div>
         </>
     )
